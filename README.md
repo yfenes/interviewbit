@@ -1,2 +1,2 @@
 # interviewbit
-Solutions for Interviewbit Questions in Python 3.
+Solutions for Interviewbit questions I've solved so far in Python 3.
